@@ -28,7 +28,7 @@ namespace beanstalk_net.DataAccess {
             CreatedOn=now
           },
           new Note {
-            Id = 2,
+            Id = 3,
             Content = "FInish EBS setup",
             UpdatedOn=now,
             CreatedOn=now
