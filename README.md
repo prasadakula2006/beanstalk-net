@@ -1,2 +1,2 @@
 # beanstalk-net
-Steps to build
+### Deploy .NET Core to AWS Elastic Beanstalk with RDS Database
